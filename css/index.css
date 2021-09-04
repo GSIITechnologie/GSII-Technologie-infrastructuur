@@ -135,6 +135,7 @@ header .logo
 .social
 {
   position: absolute;
+  margin auto;
   z-index: 10;
   bottom: 20px;
   display: flex;

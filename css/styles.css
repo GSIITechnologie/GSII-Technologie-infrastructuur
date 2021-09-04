@@ -34,17 +34,18 @@ html, body {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url("../images/pexels-rodolfo-quirós-2219024.jpg");
+  background-image: url("../images/pexels-pixabay-164385.jpg");
+
   transform: translateY(-15vh);
 }
 .background:first-child .content-wrapper {
   transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url("../images/pexels-pixabay-164385.jpg");
+  background-image: url('../Photos/15.jpg');
 }
 .background:nth-child(3) {
-  background-image: url("../images/unnamed.jpg");
+  background-image: url('../Photos/9.jpg');
 }
 
 /* Set stacking context of slides */
