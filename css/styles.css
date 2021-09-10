@@ -34,7 +34,7 @@ html, body {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url("../images/pexels-pixabay-164385.jpg");
+  background-image: url("../Photos/5.jpg");
 
   transform: translateY(-15vh);
 }
